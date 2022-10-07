@@ -94,8 +94,8 @@ Try the application live at [https://gi-wish-simulator.uzairashraf.dev/](https:/
 1. Clone the repository.
 
     ```shell
-    git clone https://github.com/uzair-ashraf/genshin-impact-wish-simulator.git
-    cd genshin-impact-wish-simulator
+    git clone https://github.com/thebase16/gch-sim-16.git
+    cd gch-sim-16
     ```
 
 1. Install all dependencies with NPM.
